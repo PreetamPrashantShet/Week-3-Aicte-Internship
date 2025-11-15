@@ -98,8 +98,8 @@ Special thanks to mentors and the open-source community for tools and datasets.
 
 ## 📞 Contact
 For any queries or clarifications:  
-*Name:* Prashanth Dattatraya Shet  
-*GitHub:* (Add your link here)  
-*Email:* (Optional)
+*Name:*Preetam Prashant Shet  
+*GitHub:* https://github.com/PreetamPrashantShet
+*Email:* preetam.prashant866@gmail.com
 
 Make sure these files exist at root:
